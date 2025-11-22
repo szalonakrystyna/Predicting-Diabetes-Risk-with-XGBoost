@@ -28,7 +28,7 @@ Celem analizy jest zbudowanie modelu uczenia maszynowego (XGBoost), który przew
 5. Budowa modelu XGBoost  
 6. Metryki: Accuracy, F1, AUC  
 7. ROC Curve  
-8. SHAP – interpretacja modelu  
+8. SHAP interpretacja modelu  
 
 ## Wyniki
 Wszystkie wykresy znajdują się w folderze `figures/`.
